@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+
+#titulo{
+    font-family: arial;
+    
+}
+
+#titulo2{
+    font-family: arial;
+}
+
+
+body{
+    min-height: 100vh;
+    font-family: Arial;
+    font-size: 1em;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 2%;
+    justify-content: center;
+}
+
+   
